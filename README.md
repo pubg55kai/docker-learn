@@ -6,3 +6,4 @@
 
 - myapp：自定义 cowsay 镜像的 Dockerfile
 - wordpress：WordPress + MySQL 的 Docker Compose 编排
+自动化测试 2026年 07月 20日 星期一 16:59:52 CST
